@@ -1,1 +1,1 @@
-# trainingHope
+# A sample dotnet app to demonstrate CI/CD
